@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = JedisJar::VERSION
   spec.authors       = ["Scott Clasen"]
   spec.email         = ["scott@heroku.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Gem wrapping jedis jars"
+  spec.summary       = "jedis jars" 
   spec.homepage      = ""
   spec.license       = "MIT"
   spec.platform      = 'java'
